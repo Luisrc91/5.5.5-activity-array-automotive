@@ -44,7 +44,7 @@ class Car extends Vehicle{
                 console.log(this.model + " " + this.make + " not enough space for passagers.");
             }
         } else {
-            console.log(this.model + " " + this.make + " is full");
+            console.log(this.model + " " + this.make + " Full Car");
         }
         } 
         
